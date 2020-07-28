@@ -60,7 +60,7 @@ body {
   line-height: 1.5;
   color: #212529;
   text-align: left;
-  background-color: rgb(223, 191, 159);
+  background-color: rgb(255, 255, 255);
 }
 
 [tabindex="-1"]:focus:not(:focus-visible) {
@@ -81,8 +81,8 @@ h1, h2, h3, h4, h5, h6 {
   text-align: center;
 }
 .logo{
-  width: 15vh;
-  height: 15vh;
+  width: 10vh;
+  height: 10vh;
 }
 .bt{
   text-align: right;
