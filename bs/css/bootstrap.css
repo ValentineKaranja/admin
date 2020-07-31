@@ -80,6 +80,10 @@ h1, h2, h3, h4, h5, h6 {
 .header{
   text-align: center;
 }
+#orders{
+  padding: 0px 75vh 0px 75vh;
+  color: white;
+}
 .logo{
   width: 10vh;
   height: 10vh;
